@@ -10,4 +10,4 @@ Hi, I'm Rıdvan Namlı, Software Developer 💻 Learner 👨‍💻 Nature Lover
 
 
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+
